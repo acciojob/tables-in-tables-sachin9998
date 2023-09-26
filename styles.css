@@ -3,10 +3,10 @@
 table, th, tr, td{
     border: 1px solid black;
 
-    text-align: center;
+/*     text-align: center; */
 }
 
 ul li {
-    text-align: center;
+/*     text-align: center; */
 }
 
