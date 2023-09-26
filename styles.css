@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+table, th, tr, td{
+    border: 1px solid black;
+
+    text-align: center;
+}
+
+ul li {
+    text-align: center;
+}
+
